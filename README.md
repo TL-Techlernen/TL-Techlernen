@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TL-Techlernen, Hazhan Salih
+- 👀 I’m interested in SQL & Data Management
+- 📫 How to reach me https://www.linkedin.com/in/hazhan-salih
